@@ -1,0 +1,33 @@
+{
+	"Book_library": [{
+			"Author": {
+				"Name": "Marty",
+				"Surname": "Cagan"
+			},
+			"Title": "INSPIRED: How to Create Tech Products Customers Love (Silicon Valley Product Group)",
+			"Publisher": "Wiley",
+			"Price": 21.38,
+			"Year": 2017
+		},
+		{
+			"Author": {
+				"Name": "Simon",
+				"Surname": "Sinek"
+			},
+			"Title": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+			"Publisher": "Penguin Audio",
+			"Price": 16.19,
+			"Year": 2017
+		},
+		{
+			"Author": {
+				"Name": "Satoru",
+				"Surname": "Iwata"
+			},
+			"Title": "Ask Iwata: Words of Wisdom from Satoru Iwata, Nintendo's Legendary CEO",
+			"Publisher": "VIZ Media LLC",
+			"Price": 19.54,
+			"Year": 2021
+		}
+	]
+}

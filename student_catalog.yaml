@@ -1,0 +1,59 @@
+---
+Student_catalog:
+- Name: Bill
+  Last_name: Gates
+  Birthdate: 10/15/1990
+  Address:
+    Street: 2417B Camner St.
+    City: Fort Lee
+    Zip: 07024
+    State: NJ
+    Country: US
+  Phones:
+    Mobile: 201-232-1423
+    Home: 201-424-9883
+    Other:
+    - 201-431-9784
+    - 201-998-8343
+    Hobby:
+    - Soccer
+    - Basketball
+    Employed: true
+- Name: Elon
+  Last_name: Musk
+  Birthdate: 03/24/1995
+  Address:
+    Street: '1 William St. #532'
+    City: Englewood
+    Zip: 07631
+    State: NJ
+    Country: US
+  Phones:
+    Mobile: 201-553-3321
+    Home: 201-989-0123
+    Other:
+    - 201-232-0102
+    Hobby:
+    - Quantum Physics
+    - Space travel
+    Employed: true
+- Name: Michael
+  Last_name: Morhaime
+  Birthdate: 01/28/2001
+  Address:
+    Street: 464 W Lexington Dr
+    City: Glendale
+    Zip: 91203
+    State: CA
+    Country: US
+  Phones:
+    Mobile: 818-339-3906
+    Home: 818-209-8898
+    Other:
+    - 818-235-1251
+    - 818-334-9989
+    - 919-209-9921
+    Hobby:
+    - Playing computer games
+    - Watching Netflix
+    Employed: false
